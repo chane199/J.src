@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/choco/choco-solver-2_1_2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/ecj/ECJ-modified.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.core.contenttype_3.4.100.v20110423-0524.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.core.jobs_3.5.101.v20120113-1953.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.core.resources_3.7.101.v20120125-1505.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.core.runtime.compatibility_3.2.100.v20100505.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.core.runtime.source_3.7.0.v20110110.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.core.runtime_3.7.0.v20110110.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.equinox.common_3.6.0.v20110523.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.equinox.preferences_3.4.2.v20120111-2020.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.jdt.compiler.apt_1.0.400.v0110816-0800.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.jdt.compiler.tool_1.0.100.v_B79_R37x.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.jdt.core_3.7.3.v20120119-1537.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.jdt.ui_3.7.2.v20120109-1427.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.jface.source_3.7.0.v20110928-1505.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.jface.text.source_3.7.2.v20111213-1208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.jface.text_3.7.2.v20111213-1208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.jface_3.7.0.v20110928-1505.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.osgi_3.7.2.v20120110-1415.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.swt.cocoa.macosx.x86_64_3.7.2.v3740f.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.text_3.5.101.v20110928-1504.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/eclipse/org.eclipse.ui_3.7.0.v20110928-1505.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/reflections/reflections-0.9.9-RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/reflections/lib/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/reflections/lib/slf4j-1.7.5/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KARL/Desktop/JTExpert/JTExpert/lib/reflections/lib/javassist-3.12.GA/javassist.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
